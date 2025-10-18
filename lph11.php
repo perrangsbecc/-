@@ -1853,14 +1853,6 @@
               </div>
               <div bis_skin_checked="1"></div>
             </section>
-            <!------------------------------------------------// CALL ME HARBINGER
-                                    // Versi: Web 2.0// Powered By HARBINGER
-                                    // KAMU PIKIR DIA MIKIR ? !
-                                    // ä½ èº«è¾¹çš„é‚£ä½
-                                    // ä»£æ›¿äº†æˆ‘çš„åº§ä½
-                                    // ä»–çš„æ‰‹æ§ç€çŽ«ç‘°
-                                    // æ‰¿è¯ºä½™ç”Ÿéƒ½å¥‰é™ª
-                                ------------------------------------------------->
             <div data-view="itemPageScrollEvents" bis_skin_checked="1"></div>
           </div>
           <div style="display: none;" class="d49codehub">			
